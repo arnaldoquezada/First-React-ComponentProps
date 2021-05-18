@@ -1,0 +1,24 @@
+.form-class{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: left;
+  width: 30%;
+  margin-left: 40%;
+  text-align: left;
+  border-radius: 5px;
+
+    h1{
+      color: blue;
+    }
+    h2{
+      color: red;
+    }
+    h3{
+      color:peru
+    }
+    h4{
+      color: black;
+      text-decoration: underline;
+    }
+}
